@@ -1,0 +1,6 @@
+/home/mytha/RiderProjects/Chess/Chess/bin/Debug/Chess.exe
+/home/mytha/RiderProjects/Chess/Chess/bin/Debug/Chess.pdb
+/home/mytha/RiderProjects/Chess/Chess/obj/Debug/Chess.csproj.AssemblyReference.cache
+/home/mytha/RiderProjects/Chess/Chess/obj/Debug/Chess.csproj.CoreCompileInputs.cache
+/home/mytha/RiderProjects/Chess/Chess/obj/Debug/Chess.exe
+/home/mytha/RiderProjects/Chess/Chess/obj/Debug/Chess.pdb
